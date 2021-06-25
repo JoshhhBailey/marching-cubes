@@ -47,8 +47,8 @@ Then re-do steps 4-6.
 1. Enter the root directory of the project
 2. Create a 'build' directory and enter it
 3. Run "cmake .."
-4. Run "cmake --build ."
-5. Run 'ase-cgitech-JoshhhBailey.app'
+4. Run "make"
+5. Run './ase-cgitech-JoshhhBailey'
 
 ### Linux
 1. Enter the root directory of the project
